@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* .../
+
+* Here you can interact with the coach
+![alt text](image.png)
+
+* Here is your question and the coach's answer.
+![alt text](image-1.png)
+
+* And continue asking by clicking the link.
